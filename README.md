@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=python-requests-retry">
+  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=referral&utm_campaign=python-requests-retry">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-dark.png">
       <img src="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-light.png" alt="Fusion Proxy" height="52">
@@ -112,7 +112,7 @@ attempt 2: ReadTimeout, new IP in 4.6 s
 giving up after 3 attempts (HTTP 429)
 ```
 
-The second call targets a URL that answers `429` to everyone, so you can watch the rotation and the final give-up. The username options are explained in the [endpoint generator guide](https://fusionproxy.net/guides/endpoint-generator?utm_source=github&utm_medium=python-requests-retry).
+The second call targets a URL that answers `429` to everyone, so you can watch the rotation and the final give-up. The username options are explained in the [endpoint generator guide](https://fusionproxy.net/guides/endpoint-generator?utm_source=github&utm_medium=referral&utm_campaign=python-requests-retry).
 
 ## 5. Common mistakes
 
@@ -128,7 +128,7 @@ The second call targets a URL that answers `429` to everyone, so you can watch t
 - [python-web-scraping](https://github.com/FusionProxies/python-web-scraping): a complete scraper that uses these retries
 - [proxy-checker](https://github.com/FusionProxies/proxy-checker): check which proxies work before you use them
 
-Getting blocked? [Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=python-requests-retry) give you real household IPs in the country, state or city you choose, with rotating or sticky sessions. [Free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=python-requests-retry).
+Getting blocked? [Fusion Proxy residential proxies](https://fusionproxy.net/proxies/residential?utm_source=github&utm_medium=referral&utm_campaign=python-requests-retry) give you real household IPs in the country, state or city you choose, with rotating or sticky sessions. [Free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=referral&utm_campaign=python-requests-retry).
 
 ## License
 
